@@ -1,4 +1,4 @@
-#Tic-Tac-Toe
+#Tic_Tac_Toe
 
 This is a Tic-Tac-Toe game I made in C++ for my semester project my junior year.
 I have not yet added every possible move for the computer to come up with to
